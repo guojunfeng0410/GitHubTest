@@ -13,6 +13,5 @@ public class MainActivity extends AppCompatActivity {
     // code B\\\\
     //
     //  Code A
-    //
-    //lastest
+    //cdde G
 }
